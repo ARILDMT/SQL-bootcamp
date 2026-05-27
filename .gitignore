@@ -1,0 +1,32 @@
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# PostgreSQL and local database dumps
+*.dump
+*.backup
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+
+# Personal notes
+notes/
+personal/
+notes.md
+scratch.sql
+test.sql
+README_RUS.md
